@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3781220114ef4874bd2ebd52d75c5ea1, type: 3}
+  m_Name: melee_sword
+  m_EditorClassIdentifier: 
+  weaponPrefab: {fileID: 407787469435444499, guid: e4b3d49893c4fc8459f8de58e32c08f1, type: 3}
+  weaponModel: {fileID: 2508259678567314639, guid: f26c9ed9c6a143c4887d2e5aafc552cc, type: 3}
+  weaponName: Sword
+  type: 1
